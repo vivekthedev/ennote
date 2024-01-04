@@ -26,7 +26,9 @@
         text = ""
     }
 </script>
-
+<svelte:head>
+	<title>Ennote</title>
+</svelte:head>
 <div class="super-parent">
 	<aside>
 		<p class="heading-1">Your Previous Notes</p>
